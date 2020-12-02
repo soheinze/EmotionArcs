@@ -2,7 +2,8 @@
 my_credentials.py
 .DS_Store
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
+*/*.ipynb_checkpoints/*
 .ipynb_checkpoints/SoundtrackEmotionArcs-checkpoint.ipynb
 __pycache__/*
-*/.docx
+*/*.docx
+.ipynb_checkpoints/SoundtrackEmotionArcs-checkpoint.ipynb
