@@ -7,3 +7,4 @@ my_credentials.py
 __pycache__/*
 */*.docx
 .ipynb_checkpoints/SoundtrackEmotionArcs-checkpoint.ipynb
+test_notebooks/*
